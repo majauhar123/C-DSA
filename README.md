@@ -1,2 +1,2 @@
-# C++-DSA
+# C++ DSA
 This is my DSA repository.
